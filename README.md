@@ -53,23 +53,18 @@ The dashboard utilizes data from reputable sources, including:
 ## 🛠️ Getting Started
 
 1. **Clone the Repository**:
-
 ```bash
 git clone https://github.com/Zeraphael/chronic_diseaes_dashboard.git
 
 2. Open the Power BI Report:
-
-   Navigate to the reports/ directory.
-
-  Open chronic_disease_dashboard.pbix using Power BI Desktop.​
+ Navigate to the reports/ directory.
+ Open chronic_disease_dashboard.pbix using Power BI Desktop.​
 3. Update Data Sources:
-
-Ensure the data paths in Power BI match the location of your data/processed/ directory.
-
-Refresh the data to load the latest information.​
-
+  Ensure the data paths in Power BI match the location of your data/processed/ directory.
+  Refresh the data to load the latest information.​
+---
 ## 📸 Dashboard Preview
-
+---
 ## 🤝 Contributing
 Contributions are welcome! If you'd like to enhance the dashboard or add new features:​
 1. Fork the repository.
@@ -77,7 +72,7 @@ Contributions are welcome! If you'd like to enhance the dashboard or add new fea
 3. Commit your changes: git commit -m 'Add your feature'.
 4. Push to the branch: git push origin feature/YourFeatureName.
 5. Open a pull request.​
-
+---
 ## 📬 Contact
 For questions or suggestions, please open an issue or contact Zeraphael.​
 
