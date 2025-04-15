@@ -1,24 +1,32 @@
-              Chronic Disease Dashboard
-An interactive Power BI dashboard developed by Zeraphael to visualize and analyze chronic disease indicators across the United States. 
+# Chronic Disease Dashboard
+
+An interactive Power BI dashboard developed by [Zeraphael](https://github.com/Zeraphael) to visualize and analyze chronic disease indicators across the United States.  
 This tool assists public health professionals, researchers, and policymakers in understanding trends, disparities, and patterns in chronic disease prevalence.
-📊 Project Overview
-Chronic diseases such as heart disease, cancer, and diabetes are leading causes of death and disability in the United States. This dashboard provides a comprehensive view of various chronic disease indicators, enabling users to:​
 
-Monitor national and state-level trends.
+---
 
-Identify disparities based on demographics.
+## 📊 Project Overview
 
-Support data-driven decision-making for public health interventions.​
+Chronic diseases such as heart disease, cancer, and diabetes are leading causes of death and disability in the United States.  
+This dashboard provides a comprehensive view of various chronic disease indicators, enabling users to:
 
-🚀 Features
-Interactive Visualizations: Dynamic charts and graphs for easy data interpretation.
+- Monitor national and state-level trends
+- Identify disparities based on demographics
+- Support data-driven decision-making for public health interventions
 
-State Comparisons: Compare indicators across different states.
+---
 
-Trend Analysis: Observe changes over time for various health indicators.
+## 🚀 Features
 
-Demographic Breakdown: Analyze data based on age, gender, and race/ethnicity.​
-📁 Project Structure
+- **Interactive Visualizations**: Dynamic charts and graphs for easy data interpretation
+- **State Comparisons**: Compare indicators across different states
+- **Trend Analysis**: Observe changes over time for various health indicators
+- **Demographic Breakdown**: Analyze data based on age, gender, and race/ethnicity
+
+---
+
+## 📁 Project Structure
+
 chronic_diseaes_dashboard/
 ├── data/
 │   ├── raw/                # Original datasets
@@ -29,17 +37,26 @@ chronic_diseaes_dashboard/
 │   └── chronic_disease_dashboard.pbix  # Power BI report file
 ├── README.md
 └── LICENSE
-📂 Data Sources
-The dashboard utilizes data from reputable sources, including:​
 
-CDC Chronic Disease Indicators (CDI)
+---
 
-Texas Health Data - Chronic Disease
+## 📂 Data Sources
 
-AIHW Chronic Disease Overview
-🛠️ Getting Started
-1. Clone the Repository:
-   git clone https://github.com/Zeraphael/chronic_diseaes_dashboard.git
+The dashboard utilizes data from reputable sources, including:
+
+- [CDC Chronic Disease Indicators (CDI)](https://www.cdc.gov/cdi/index.html)
+- [Texas Health Data - Chronic Disease](https://healthdata.dshs.texas.gov/dashboard/surveys-and-profiles/health-facts-profiles/chronic-disease)
+- [AIHW Chronic Disease Overview](https://www.aihw.gov.au/reports-data/health-conditions-disability-deaths/chronic-disease/overview)
+
+---
+
+## 🛠️ Getting Started
+
+1. **Clone the Repository**:
+
+```bash
+git clone https://github.com/Zeraphael/chronic_diseaes_dashboard.git
+
 2. Open the Power BI Report:
 
    Navigate to the reports/ directory.
@@ -51,18 +68,18 @@ Ensure the data paths in Power BI match the location of your data/processed/ dir
 
 Refresh the data to load the latest information.​
 
-📸 Dashboard Preview
-🤝 Contributing
+## 📸 Dashboard Preview
+
+## 🤝 Contributing
 Contributions are welcome! If you'd like to enhance the dashboard or add new features:​
-
 1. Fork the repository.
-
 2. Create a new branch: git checkout -b feature/YourFeatureName.
-
 3. Commit your changes: git commit -m 'Add your feature'.
-
 4. Push to the branch: git push origin feature/YourFeatureName.
-
 5. Open a pull request.​
-📬 Contact
-For questions or suggestions, please open an issue or contact Zeraphael.​   
+
+## 📬 Contact
+For questions or suggestions, please open an issue or contact Zeraphael.​
+
+Let me know if you want to add sections like FAQs, To-Do, or Deployment tips!
+ 
