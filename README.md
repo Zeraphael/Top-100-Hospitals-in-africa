@@ -20,7 +20,7 @@ This project explores healthcare infrastructure across Africa’s top 100 hospit
 
 ## 🧠 Insights & Findings
 
-### SQL Analysis Highlights
+### SQL Analysis Highlights <a href ="https://github.com/Zeraphael/Top-100-Hospitals-in-africa/blob/main/Top_100_Hospitals_In_Africa_Analysis---SQL.sql"> SQL files</a>
 - **ICU Capacity**: Top hospitals have ICU beds exceeding 100+, but many lack proportional staffing.
 - **Ambulance Gaps**: Several hospitals operate without ambulance services, especially in rural regions.
 - **Doctor-to-Patient Ratio**: Some hospitals serve over 1,000 patients per doctor monthly.
