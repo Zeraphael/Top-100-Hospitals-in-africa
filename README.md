@@ -33,6 +33,7 @@ This project explores healthcare infrastructure across Africa’s top 100 hospit
 - **Facility Dashboard**: Reveals gaps in MRI and X-ray availability; budget disparities by ownership.
 - **<a href ="https://github.com/Zeraphael/Top-100-Hospitals-in-africa/blob/main/faculity%20analysis%20dashboard.png"> Faculity Dashboard</a>
 - **Hospital Dashboard**: Shows regional clustering of hospital types and accreditation status.
+- <a href ="https://github.com/Zeraphael/Top-100-Hospitals-in-africa/blob/main/Hospitals_final.png"> Hospital Dashboard</a>
 - **Patient Dashboard**: Links low satisfaction scores to underfunded public hospitals.
     <a href ="https://github.com/Zeraphael/Top-100-Hospitals-in-africa/blob/main/PATIENTS_DASHBOARD_FINAL.png">Patient Dashboard</a>
 - **Staff Dashboard**: Highlights regions with critical shortages in lab workers and pharmacists.
