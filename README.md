@@ -3,6 +3,7 @@
 **This project explores healthcare infrastructure across Africa’s top 100 hospitals using SQL queries and Excel PivotTables. It aims to uncover disparities, inefficiencies, and opportunities for improvement in hospital performance, staffing, and patient care.**
 ---
 ## 📊 Dataset
+<a href ="https://github.com/Zeraphael/Top-100-Hospitals-in-africa/blob/main/Top_100_hospitals_Africa.zip"> Top_100_hospitals_Africa</a>
 ---
 
 ## 📌 Key Questions Raised
