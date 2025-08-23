@@ -36,7 +36,7 @@ This project explores healthcare infrastructure across Africa’s top 100 hospit
 - **Patient Dashboard**: Links low satisfaction scores to underfunded public hospitals.
     <a href ="https://github.com/Zeraphael/Top-100-Hospitals-in-africa/blob/main/PATIENTS_DASHBOARD_FINAL.png">Patient Dashboard</a>
 - **Staff Dashboard**: Highlights regions with critical shortages in lab workers and pharmacists.
-
+   < a href ="https://github.com/Zeraphael/Top-100-Hospitals-in-africa/blob/main/STAFF%20ANALYSIS%20DASHBOARD.png"> Staff Dashboard</a>
 ---
 
 ## ✅ Recommendations
